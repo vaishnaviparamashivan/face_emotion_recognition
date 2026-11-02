@@ -1,4 +1,4 @@
-face_emotion_recognition
+**face_emotion_recognition**
 
 Overview
 
